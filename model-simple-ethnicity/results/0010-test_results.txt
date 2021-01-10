@@ -1,0 +1,754 @@
+Rank 1 - Correctly classified: 153 - Incorrectly classified: 97
+Rank 5 - Correctly classified: 241 - Incorrectly classified: 9
+Rank 10 - Correctly classified: 250 - Incorrectly classified: 0
+
+Image 011/07.png incorrectly classified in Top1 with label 1 correct is 2
+Image 011/07.png correctly classified in Top5 with label 1
+Image 011/07.png correctly classified in Top10 with label 1
+Image 011/08.png incorrectly classified in Top1 with label 1 correct is 2
+Image 011/08.png correctly classified in Top5 with label 1
+Image 011/08.png correctly classified in Top10 with label 1
+Image 011/09.png incorrectly classified in Top1 with label 1 correct is 2
+Image 011/09.png correctly classified in Top5 with label 1
+Image 011/09.png correctly classified in Top10 with label 1
+Image 001/03.png incorrectly classified in Top1 with label 1 correct is 5
+Image 001/03.png correctly classified in Top5 with label 1
+Image 001/03.png correctly classified in Top10 with label 1
+Image 012/08.png correctly classified in Top1 with label 1
+Image 012/08.png correctly classified in Top5 with label 1
+Image 012/08.png correctly classified in Top10 with label 1
+Image 012/09.png correctly classified in Top1 with label 1
+Image 012/09.png correctly classified in Top5 with label 1
+Image 012/09.png correctly classified in Top10 with label 1
+Image 002/01.png correctly classified in Top1 with label 1
+Image 002/01.png correctly classified in Top5 with label 1
+Image 002/01.png correctly classified in Top10 with label 1
+Image 012/10.png correctly classified in Top1 with label 1
+Image 012/10.png correctly classified in Top5 with label 1
+Image 012/10.png correctly classified in Top10 with label 1
+Image 002/02.png correctly classified in Top1 with label 1
+Image 002/02.png correctly classified in Top5 with label 1
+Image 002/02.png correctly classified in Top10 with label 1
+Image 013/03.png correctly classified in Top1 with label 1
+Image 013/03.png correctly classified in Top5 with label 1
+Image 013/03.png correctly classified in Top10 with label 1
+Image 014/02.png correctly classified in Top1 with label 1
+Image 014/02.png correctly classified in Top5 with label 1
+Image 014/02.png correctly classified in Top10 with label 1
+Image 014/10.png correctly classified in Top1 with label 1
+Image 014/10.png correctly classified in Top5 with label 1
+Image 014/10.png correctly classified in Top10 with label 1
+Image 015/02.png incorrectly classified in Top1 with label 1 correct is 4
+Image 015/02.png correctly classified in Top5 with label 1
+Image 015/02.png correctly classified in Top10 with label 1
+Image 015/07.png incorrectly classified in Top1 with label 1 correct is 4
+Image 015/07.png correctly classified in Top5 with label 1
+Image 015/07.png correctly classified in Top10 with label 1
+Image 015/03.png incorrectly classified in Top1 with label 1 correct is 4
+Image 015/03.png correctly classified in Top5 with label 1
+Image 015/03.png correctly classified in Top10 with label 1
+Image 016/07.png correctly classified in Top1 with label 1
+Image 016/07.png correctly classified in Top5 with label 1
+Image 016/07.png correctly classified in Top10 with label 1
+Image 016/08.png correctly classified in Top1 with label 1
+Image 016/08.png correctly classified in Top5 with label 1
+Image 016/08.png correctly classified in Top10 with label 1
+Image 016/09.png correctly classified in Top1 with label 1
+Image 016/09.png correctly classified in Top5 with label 1
+Image 016/09.png correctly classified in Top10 with label 1
+Image 017/07.png correctly classified in Top1 with label 1
+Image 017/07.png correctly classified in Top5 with label 1
+Image 017/07.png correctly classified in Top10 with label 1
+Image 017/08.png correctly classified in Top1 with label 1
+Image 017/08.png correctly classified in Top5 with label 1
+Image 017/08.png correctly classified in Top10 with label 1
+Image 017/09.png correctly classified in Top1 with label 1
+Image 017/09.png correctly classified in Top5 with label 1
+Image 017/09.png correctly classified in Top10 with label 1
+Image 018/08.png incorrectly classified in Top1 with label 1 correct is 6
+Image 018/08.png incorrectly classified not in Top5 with label 1 correct is 6
+Image 018/08.png correctly classified in Top10 with label 1
+Image 018/09.png incorrectly classified in Top1 with label 1 correct is 6
+Image 018/09.png incorrectly classified not in Top5 with label 1 correct is 6
+Image 018/09.png correctly classified in Top10 with label 1
+Image 018/10.png incorrectly classified in Top1 with label 1 correct is 6
+Image 018/10.png incorrectly classified not in Top5 with label 1 correct is 6
+Image 018/10.png correctly classified in Top10 with label 1
+Image 019/03.png correctly classified in Top1 with label 1
+Image 019/03.png correctly classified in Top5 with label 1
+Image 019/03.png correctly classified in Top10 with label 1
+Image 020/01.png correctly classified in Top1 with label 1
+Image 020/01.png correctly classified in Top5 with label 1
+Image 020/01.png correctly classified in Top10 with label 1
+Image 020/02.png correctly classified in Top1 with label 1
+Image 020/02.png correctly classified in Top5 with label 1
+Image 020/02.png correctly classified in Top10 with label 1
+Image 021/04.png correctly classified in Top1 with label 1
+Image 021/04.png correctly classified in Top5 with label 1
+Image 021/04.png correctly classified in Top10 with label 1
+Image 021/05.png correctly classified in Top1 with label 1
+Image 021/05.png correctly classified in Top5 with label 1
+Image 021/05.png correctly classified in Top10 with label 1
+Image 021/02.png correctly classified in Top1 with label 1
+Image 021/02.png correctly classified in Top5 with label 1
+Image 021/02.png correctly classified in Top10 with label 1
+Image 022/07.png incorrectly classified in Top1 with label 1 correct is 4
+Image 022/07.png correctly classified in Top5 with label 1
+Image 022/07.png correctly classified in Top10 with label 1
+Image 022/08.png incorrectly classified in Top1 with label 1 correct is 4
+Image 022/08.png correctly classified in Top5 with label 1
+Image 022/08.png correctly classified in Top10 with label 1
+Image 022/09.png incorrectly classified in Top1 with label 1 correct is 4
+Image 022/09.png correctly classified in Top5 with label 1
+Image 022/09.png correctly classified in Top10 with label 1
+Image 023/07.png correctly classified in Top1 with label 1
+Image 023/07.png correctly classified in Top5 with label 1
+Image 023/07.png correctly classified in Top10 with label 1
+Image 023/08.png correctly classified in Top1 with label 1
+Image 023/08.png correctly classified in Top5 with label 1
+Image 023/08.png correctly classified in Top10 with label 1
+Image 023/09.png correctly classified in Top1 with label 1
+Image 023/09.png correctly classified in Top5 with label 1
+Image 023/09.png correctly classified in Top10 with label 1
+Image 003/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 003/04.png correctly classified in Top5 with label 1
+Image 003/04.png correctly classified in Top10 with label 1
+Image 024/08.png correctly classified in Top1 with label 1
+Image 024/08.png correctly classified in Top5 with label 1
+Image 024/08.png correctly classified in Top10 with label 1
+Image 024/09.png correctly classified in Top1 with label 1
+Image 024/09.png correctly classified in Top5 with label 1
+Image 024/09.png correctly classified in Top10 with label 1
+Image 003/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 003/05.png correctly classified in Top5 with label 1
+Image 003/05.png correctly classified in Top10 with label 1
+Image 024/10.png correctly classified in Top1 with label 1
+Image 024/10.png correctly classified in Top5 with label 1
+Image 024/10.png correctly classified in Top10 with label 1
+Image 003/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 003/06.png correctly classified in Top5 with label 1
+Image 003/06.png correctly classified in Top10 with label 1
+Image 025/03.png correctly classified in Top1 with label 1
+Image 025/03.png correctly classified in Top5 with label 1
+Image 025/03.png correctly classified in Top10 with label 1
+Image 026/01.png incorrectly classified in Top1 with label 1 correct is 6
+Image 026/01.png incorrectly classified not in Top5 with label 1 correct is 6
+Image 026/01.png correctly classified in Top10 with label 1
+Image 026/04.png incorrectly classified in Top1 with label 1 correct is 6
+Image 026/04.png correctly classified in Top5 with label 1
+Image 026/04.png correctly classified in Top10 with label 1
+Image 027/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 027/04.png correctly classified in Top5 with label 1
+Image 027/04.png correctly classified in Top10 with label 1
+Image 027/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 027/05.png correctly classified in Top5 with label 1
+Image 027/05.png correctly classified in Top10 with label 1
+Image 027/01.png incorrectly classified in Top1 with label 1 correct is 2
+Image 027/01.png correctly classified in Top5 with label 1
+Image 027/01.png correctly classified in Top10 with label 1
+Image 028/07.png correctly classified in Top1 with label 1
+Image 028/07.png correctly classified in Top5 with label 1
+Image 028/07.png correctly classified in Top10 with label 1
+Image 028/08.png correctly classified in Top1 with label 1
+Image 028/08.png correctly classified in Top5 with label 1
+Image 028/08.png correctly classified in Top10 with label 1
+Image 028/02.png correctly classified in Top1 with label 1
+Image 028/02.png correctly classified in Top5 with label 1
+Image 028/02.png correctly classified in Top10 with label 1
+Image 029/02.png incorrectly classified in Top1 with label 1 correct is 4
+Image 029/02.png correctly classified in Top5 with label 1
+Image 029/02.png correctly classified in Top10 with label 1
+Image 029/09.png incorrectly classified in Top1 with label 1 correct is 4
+Image 029/09.png correctly classified in Top5 with label 1
+Image 029/09.png correctly classified in Top10 with label 1
+Image 029/10.png incorrectly classified in Top1 with label 1 correct is 4
+Image 029/10.png correctly classified in Top5 with label 1
+Image 029/10.png correctly classified in Top10 with label 1
+Image 030/09.png incorrectly classified in Top1 with label 1 correct is 4
+Image 030/09.png correctly classified in Top5 with label 1
+Image 030/09.png correctly classified in Top10 with label 1
+Image 030/10.png incorrectly classified in Top1 with label 1 correct is 4
+Image 030/10.png correctly classified in Top5 with label 1
+Image 030/10.png correctly classified in Top10 with label 1
+Image 030/02.png incorrectly classified in Top1 with label 1 correct is 4
+Image 030/02.png correctly classified in Top5 with label 1
+Image 030/02.png correctly classified in Top10 with label 1
+Image 031/03.png incorrectly classified in Top1 with label 1 correct is 4
+Image 031/03.png correctly classified in Top5 with label 1
+Image 031/03.png correctly classified in Top10 with label 1
+Image 032/01.png correctly classified in Top1 with label 1
+Image 032/01.png correctly classified in Top5 with label 1
+Image 032/01.png correctly classified in Top10 with label 1
+Image 032/04.png correctly classified in Top1 with label 1
+Image 032/04.png correctly classified in Top5 with label 1
+Image 032/04.png correctly classified in Top10 with label 1
+Image 033/05.png correctly classified in Top1 with label 1
+Image 033/05.png correctly classified in Top5 with label 1
+Image 033/05.png correctly classified in Top10 with label 1
+Image 033/01.png correctly classified in Top1 with label 1
+Image 033/01.png correctly classified in Top5 with label 1
+Image 033/01.png correctly classified in Top10 with label 1
+Image 033/06.png correctly classified in Top1 with label 1
+Image 033/06.png correctly classified in Top5 with label 1
+Image 033/06.png correctly classified in Top10 with label 1
+Image 034/01.png incorrectly classified in Top1 with label 1 correct is 6
+Image 034/01.png correctly classified in Top5 with label 1
+Image 034/01.png correctly classified in Top10 with label 1
+Image 034/08.png incorrectly classified in Top1 with label 1 correct is 6
+Image 034/08.png correctly classified in Top5 with label 1
+Image 034/08.png correctly classified in Top10 with label 1
+Image 034/02.png incorrectly classified in Top1 with label 1 correct is 6
+Image 034/02.png incorrectly classified not in Top5 with label 1 correct is 6
+Image 034/02.png correctly classified in Top10 with label 1
+Image 035/06.png correctly classified in Top1 with label 1
+Image 035/06.png correctly classified in Top5 with label 1
+Image 035/06.png correctly classified in Top10 with label 1
+Image 035/07.png correctly classified in Top1 with label 1
+Image 035/07.png correctly classified in Top5 with label 1
+Image 035/07.png correctly classified in Top10 with label 1
+Image 035/08.png correctly classified in Top1 with label 1
+Image 035/08.png correctly classified in Top5 with label 1
+Image 035/08.png correctly classified in Top10 with label 1
+Image 004/06.png correctly classified in Top1 with label 1
+Image 004/06.png correctly classified in Top5 with label 1
+Image 004/06.png correctly classified in Top10 with label 1
+Image 036/10.png correctly classified in Top1 with label 1
+Image 036/10.png correctly classified in Top5 with label 1
+Image 036/10.png correctly classified in Top10 with label 1
+Image 036/01.png correctly classified in Top1 with label 1
+Image 036/01.png correctly classified in Top5 with label 1
+Image 036/01.png correctly classified in Top10 with label 1
+Image 004/07.png correctly classified in Top1 with label 1
+Image 004/07.png correctly classified in Top5 with label 1
+Image 004/07.png correctly classified in Top10 with label 1
+Image 036/02.png correctly classified in Top1 with label 1
+Image 036/02.png correctly classified in Top5 with label 1
+Image 036/02.png correctly classified in Top10 with label 1
+Image 004/02.png correctly classified in Top1 with label 1
+Image 004/02.png correctly classified in Top5 with label 1
+Image 004/02.png correctly classified in Top10 with label 1
+Image 037/10.png correctly classified in Top1 with label 1
+Image 037/10.png correctly classified in Top5 with label 1
+Image 037/10.png correctly classified in Top10 with label 1
+Image 038/02.png correctly classified in Top1 with label 1
+Image 038/02.png correctly classified in Top5 with label 1
+Image 038/02.png correctly classified in Top10 with label 1
+Image 038/03.png correctly classified in Top1 with label 1
+Image 038/03.png correctly classified in Top5 with label 1
+Image 038/03.png correctly classified in Top10 with label 1
+Image 039/03.png incorrectly classified in Top1 with label 1 correct is 2
+Image 039/03.png correctly classified in Top5 with label 1
+Image 039/03.png correctly classified in Top10 with label 1
+Image 039/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 039/04.png correctly classified in Top5 with label 1
+Image 039/04.png correctly classified in Top10 with label 1
+Image 039/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 039/05.png correctly classified in Top5 with label 1
+Image 039/05.png correctly classified in Top10 with label 1
+Image 040/06.png correctly classified in Top1 with label 1
+Image 040/06.png correctly classified in Top5 with label 1
+Image 040/06.png correctly classified in Top10 with label 1
+Image 040/03.png correctly classified in Top1 with label 1
+Image 040/03.png correctly classified in Top5 with label 1
+Image 040/03.png correctly classified in Top10 with label 1
+Image 040/07.png correctly classified in Top1 with label 1
+Image 040/07.png correctly classified in Top5 with label 1
+Image 040/07.png correctly classified in Top10 with label 1
+Image 041/07.png correctly classified in Top1 with label 1
+Image 041/07.png correctly classified in Top5 with label 1
+Image 041/07.png correctly classified in Top10 with label 1
+Image 041/08.png correctly classified in Top1 with label 1
+Image 041/08.png correctly classified in Top5 with label 1
+Image 041/08.png correctly classified in Top10 with label 1
+Image 041/09.png correctly classified in Top1 with label 1
+Image 041/09.png correctly classified in Top5 with label 1
+Image 041/09.png correctly classified in Top10 with label 1
+Image 042/09.png incorrectly classified in Top1 with label 1 correct is 2
+Image 042/09.png correctly classified in Top5 with label 1
+Image 042/09.png correctly classified in Top10 with label 1
+Image 042/10.png incorrectly classified in Top1 with label 1 correct is 2
+Image 042/10.png correctly classified in Top5 with label 1
+Image 042/10.png correctly classified in Top10 with label 1
+Image 042/01.png incorrectly classified in Top1 with label 1 correct is 2
+Image 042/01.png correctly classified in Top5 with label 1
+Image 042/01.png correctly classified in Top10 with label 1
+Image 043/10.png incorrectly classified in Top1 with label 1 correct is 2
+Image 043/10.png correctly classified in Top5 with label 1
+Image 043/10.png correctly classified in Top10 with label 1
+Image 044/02.png correctly classified in Top1 with label 1
+Image 044/02.png correctly classified in Top5 with label 1
+Image 044/02.png correctly classified in Top10 with label 1
+Image 044/03.png correctly classified in Top1 with label 1
+Image 044/03.png correctly classified in Top5 with label 1
+Image 044/03.png correctly classified in Top10 with label 1
+Image 045/02.png incorrectly classified in Top1 with label 1 correct is 4
+Image 045/02.png correctly classified in Top5 with label 1
+Image 045/02.png correctly classified in Top10 with label 1
+Image 045/03.png incorrectly classified in Top1 with label 1 correct is 4
+Image 045/03.png correctly classified in Top5 with label 1
+Image 045/03.png correctly classified in Top10 with label 1
+Image 045/04.png incorrectly classified in Top1 with label 1 correct is 4
+Image 045/04.png correctly classified in Top5 with label 1
+Image 045/04.png correctly classified in Top10 with label 1
+Image 046/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 046/05.png correctly classified in Top5 with label 1
+Image 046/05.png correctly classified in Top10 with label 1
+Image 046/02.png incorrectly classified in Top1 with label 1 correct is 2
+Image 046/02.png correctly classified in Top5 with label 1
+Image 046/02.png correctly classified in Top10 with label 1
+Image 046/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 046/06.png correctly classified in Top5 with label 1
+Image 046/06.png correctly classified in Top10 with label 1
+Image 047/09.png correctly classified in Top1 with label 1
+Image 047/09.png correctly classified in Top5 with label 1
+Image 047/09.png correctly classified in Top10 with label 1
+Image 047/10.png correctly classified in Top1 with label 1
+Image 047/10.png correctly classified in Top5 with label 1
+Image 047/10.png correctly classified in Top10 with label 1
+Image 047/02.png correctly classified in Top1 with label 1
+Image 047/02.png correctly classified in Top5 with label 1
+Image 047/02.png correctly classified in Top10 with label 1
+Image 005/05.png incorrectly classified in Top1 with label 1 correct is 5
+Image 005/05.png correctly classified in Top5 with label 1
+Image 005/05.png correctly classified in Top10 with label 1
+Image 048/09.png correctly classified in Top1 with label 1
+Image 048/09.png correctly classified in Top5 with label 1
+Image 048/09.png correctly classified in Top10 with label 1
+Image 048/10.png correctly classified in Top1 with label 1
+Image 048/10.png correctly classified in Top5 with label 1
+Image 048/10.png correctly classified in Top10 with label 1
+Image 005/06.png incorrectly classified in Top1 with label 1 correct is 5
+Image 005/06.png correctly classified in Top5 with label 1
+Image 005/06.png correctly classified in Top10 with label 1
+Image 048/03.png correctly classified in Top1 with label 1
+Image 048/03.png correctly classified in Top5 with label 1
+Image 048/03.png correctly classified in Top10 with label 1
+Image 005/07.png incorrectly classified in Top1 with label 1 correct is 5
+Image 005/07.png incorrectly classified not in Top5 with label 1 correct is 5
+Image 005/07.png correctly classified in Top10 with label 1
+Image 049/10.png correctly classified in Top1 with label 1
+Image 049/10.png correctly classified in Top5 with label 1
+Image 049/10.png correctly classified in Top10 with label 1
+Image 050/03.png correctly classified in Top1 with label 1
+Image 050/03.png correctly classified in Top5 with label 1
+Image 050/03.png correctly classified in Top10 with label 1
+Image 050/04.png correctly classified in Top1 with label 1
+Image 050/04.png correctly classified in Top5 with label 1
+Image 050/04.png correctly classified in Top10 with label 1
+Image 051/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 051/04.png correctly classified in Top5 with label 1
+Image 051/04.png correctly classified in Top10 with label 1
+Image 051/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 051/05.png correctly classified in Top5 with label 1
+Image 051/05.png correctly classified in Top10 with label 1
+Image 051/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 051/06.png correctly classified in Top5 with label 1
+Image 051/06.png correctly classified in Top10 with label 1
+Image 052/06.png correctly classified in Top1 with label 1
+Image 052/06.png correctly classified in Top5 with label 1
+Image 052/06.png correctly classified in Top10 with label 1
+Image 052/07.png correctly classified in Top1 with label 1
+Image 052/07.png correctly classified in Top5 with label 1
+Image 052/07.png correctly classified in Top10 with label 1
+Image 052/08.png correctly classified in Top1 with label 1
+Image 052/08.png correctly classified in Top5 with label 1
+Image 052/08.png correctly classified in Top10 with label 1
+Image 053/06.png correctly classified in Top1 with label 1
+Image 053/06.png correctly classified in Top5 with label 1
+Image 053/06.png correctly classified in Top10 with label 1
+Image 053/07.png correctly classified in Top1 with label 1
+Image 053/07.png correctly classified in Top5 with label 1
+Image 053/07.png correctly classified in Top10 with label 1
+Image 053/08.png correctly classified in Top1 with label 1
+Image 053/08.png correctly classified in Top5 with label 1
+Image 053/08.png correctly classified in Top10 with label 1
+Image 054/02.png incorrectly classified in Top1 with label 1 correct is 2
+Image 054/02.png correctly classified in Top5 with label 1
+Image 054/02.png correctly classified in Top10 with label 1
+Image 054/03.png incorrectly classified in Top1 with label 1 correct is 2
+Image 054/03.png correctly classified in Top5 with label 1
+Image 054/03.png correctly classified in Top10 with label 1
+Image 054/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 054/04.png correctly classified in Top5 with label 1
+Image 054/04.png correctly classified in Top10 with label 1
+Image 055/10.png incorrectly classified in Top1 with label 1 correct is 3
+Image 055/10.png correctly classified in Top5 with label 1
+Image 055/10.png correctly classified in Top10 with label 1
+Image 056/02.png correctly classified in Top1 with label 1
+Image 056/02.png correctly classified in Top5 with label 1
+Image 056/02.png correctly classified in Top10 with label 1
+Image 056/03.png correctly classified in Top1 with label 1
+Image 056/03.png correctly classified in Top5 with label 1
+Image 056/03.png correctly classified in Top10 with label 1
+Image 057/03.png correctly classified in Top1 with label 1
+Image 057/03.png correctly classified in Top5 with label 1
+Image 057/03.png correctly classified in Top10 with label 1
+Image 057/04.png correctly classified in Top1 with label 1
+Image 057/04.png correctly classified in Top5 with label 1
+Image 057/04.png correctly classified in Top10 with label 1
+Image 057/05.png correctly classified in Top1 with label 1
+Image 057/05.png correctly classified in Top5 with label 1
+Image 057/05.png correctly classified in Top10 with label 1
+Image 058/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 058/06.png correctly classified in Top5 with label 1
+Image 058/06.png correctly classified in Top10 with label 1
+Image 058/07.png incorrectly classified in Top1 with label 1 correct is 2
+Image 058/07.png correctly classified in Top5 with label 1
+Image 058/07.png correctly classified in Top10 with label 1
+Image 058/08.png incorrectly classified in Top1 with label 1 correct is 2
+Image 058/08.png correctly classified in Top5 with label 1
+Image 058/08.png correctly classified in Top10 with label 1
+Image 059/07.png correctly classified in Top1 with label 1
+Image 059/07.png correctly classified in Top5 with label 1
+Image 059/07.png correctly classified in Top10 with label 1
+Image 059/08.png correctly classified in Top1 with label 1
+Image 059/08.png correctly classified in Top5 with label 1
+Image 059/08.png correctly classified in Top10 with label 1
+Image 059/09.png correctly classified in Top1 with label 1
+Image 059/09.png correctly classified in Top5 with label 1
+Image 059/09.png correctly classified in Top10 with label 1
+Image 006/06.png incorrectly classified in Top1 with label 1 correct is 5
+Image 006/06.png correctly classified in Top5 with label 1
+Image 006/06.png correctly classified in Top10 with label 1
+Image 060/09.png correctly classified in Top1 with label 1
+Image 060/09.png correctly classified in Top5 with label 1
+Image 060/09.png correctly classified in Top10 with label 1
+Image 060/04.png correctly classified in Top1 with label 1
+Image 060/04.png correctly classified in Top5 with label 1
+Image 060/04.png correctly classified in Top10 with label 1
+Image 006/07.png incorrectly classified in Top1 with label 1 correct is 5
+Image 006/07.png correctly classified in Top5 with label 1
+Image 006/07.png correctly classified in Top10 with label 1
+Image 060/10.png correctly classified in Top1 with label 1
+Image 060/10.png correctly classified in Top5 with label 1
+Image 060/10.png correctly classified in Top10 with label 1
+Image 006/08.png incorrectly classified in Top1 with label 1 correct is 5
+Image 006/08.png correctly classified in Top5 with label 1
+Image 006/08.png correctly classified in Top10 with label 1
+Image 061/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 061/04.png correctly classified in Top5 with label 1
+Image 061/04.png correctly classified in Top10 with label 1
+Image 062/01.png incorrectly classified in Top1 with label 1 correct is 2
+Image 062/01.png correctly classified in Top5 with label 1
+Image 062/01.png correctly classified in Top10 with label 1
+Image 062/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 062/04.png correctly classified in Top5 with label 1
+Image 062/04.png correctly classified in Top10 with label 1
+Image 063/04.png correctly classified in Top1 with label 1
+Image 063/04.png correctly classified in Top5 with label 1
+Image 063/04.png correctly classified in Top10 with label 1
+Image 063/05.png correctly classified in Top1 with label 1
+Image 063/05.png correctly classified in Top5 with label 1
+Image 063/05.png correctly classified in Top10 with label 1
+Image 063/06.png correctly classified in Top1 with label 1
+Image 063/06.png correctly classified in Top5 with label 1
+Image 063/06.png correctly classified in Top10 with label 1
+Image 064/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 064/06.png correctly classified in Top5 with label 1
+Image 064/06.png correctly classified in Top10 with label 1
+Image 064/07.png incorrectly classified in Top1 with label 1 correct is 2
+Image 064/07.png correctly classified in Top5 with label 1
+Image 064/07.png correctly classified in Top10 with label 1
+Image 064/08.png incorrectly classified in Top1 with label 1 correct is 2
+Image 064/08.png correctly classified in Top5 with label 1
+Image 064/08.png correctly classified in Top10 with label 1
+Image 065/08.png incorrectly classified in Top1 with label 1 correct is 4
+Image 065/08.png correctly classified in Top5 with label 1
+Image 065/08.png correctly classified in Top10 with label 1
+Image 065/09.png incorrectly classified in Top1 with label 1 correct is 4
+Image 065/09.png correctly classified in Top5 with label 1
+Image 065/09.png correctly classified in Top10 with label 1
+Image 065/10.png incorrectly classified in Top1 with label 1 correct is 4
+Image 065/10.png correctly classified in Top5 with label 1
+Image 065/10.png correctly classified in Top10 with label 1
+Image 066/09.png correctly classified in Top1 with label 1
+Image 066/09.png correctly classified in Top5 with label 1
+Image 066/09.png correctly classified in Top10 with label 1
+Image 066/10.png correctly classified in Top1 with label 1
+Image 066/10.png correctly classified in Top5 with label 1
+Image 066/10.png correctly classified in Top10 with label 1
+Image 066/02.png correctly classified in Top1 with label 1
+Image 066/02.png correctly classified in Top5 with label 1
+Image 066/02.png correctly classified in Top10 with label 1
+Image 068/01.png correctly classified in Top1 with label 1
+Image 068/01.png correctly classified in Top5 with label 1
+Image 068/01.png correctly classified in Top10 with label 1
+Image 068/02.png correctly classified in Top1 with label 1
+Image 068/02.png correctly classified in Top5 with label 1
+Image 068/02.png correctly classified in Top10 with label 1
+Image 069/04.png correctly classified in Top1 with label 1
+Image 069/04.png correctly classified in Top5 with label 1
+Image 069/04.png correctly classified in Top10 with label 1
+Image 069/05.png correctly classified in Top1 with label 1
+Image 069/05.png correctly classified in Top5 with label 1
+Image 069/05.png correctly classified in Top10 with label 1
+Image 069/06.png correctly classified in Top1 with label 1
+Image 069/06.png correctly classified in Top5 with label 1
+Image 069/06.png correctly classified in Top10 with label 1
+Image 070/03.png correctly classified in Top1 with label 1
+Image 070/03.png correctly classified in Top5 with label 1
+Image 070/03.png correctly classified in Top10 with label 1
+Image 070/06.png correctly classified in Top1 with label 1
+Image 070/06.png correctly classified in Top5 with label 1
+Image 070/06.png correctly classified in Top10 with label 1
+Image 070/07.png correctly classified in Top1 with label 1
+Image 070/07.png correctly classified in Top5 with label 1
+Image 070/07.png correctly classified in Top10 with label 1
+Image 071/02.png incorrectly classified in Top1 with label 1 correct is 4
+Image 071/02.png correctly classified in Top5 with label 1
+Image 071/02.png correctly classified in Top10 with label 1
+Image 071/08.png incorrectly classified in Top1 with label 1 correct is 4
+Image 071/08.png correctly classified in Top5 with label 1
+Image 071/08.png correctly classified in Top10 with label 1
+Image 071/09.png incorrectly classified in Top1 with label 1 correct is 4
+Image 071/09.png correctly classified in Top5 with label 1
+Image 071/09.png correctly classified in Top10 with label 1
+Image 007/10.png incorrectly classified in Top1 with label 1 correct is 4
+Image 007/10.png correctly classified in Top5 with label 1
+Image 007/10.png correctly classified in Top10 with label 1
+Image 072/09.png incorrectly classified in Top1 with label 1 correct is 4
+Image 072/09.png correctly classified in Top5 with label 1
+Image 072/09.png correctly classified in Top10 with label 1
+Image 072/10.png incorrectly classified in Top1 with label 1 correct is 4
+Image 072/10.png correctly classified in Top5 with label 1
+Image 072/10.png correctly classified in Top10 with label 1
+Image 008/01.png correctly classified in Top1 with label 1
+Image 008/01.png correctly classified in Top5 with label 1
+Image 008/01.png correctly classified in Top10 with label 1
+Image 072/03.png incorrectly classified in Top1 with label 1 correct is 4
+Image 072/03.png correctly classified in Top5 with label 1
+Image 072/03.png correctly classified in Top10 with label 1
+Image 008/06.png correctly classified in Top1 with label 1
+Image 008/06.png correctly classified in Top5 with label 1
+Image 008/06.png correctly classified in Top10 with label 1
+Image 073/03.png incorrectly classified in Top1 with label 1 correct is 3
+Image 073/03.png correctly classified in Top5 with label 1
+Image 073/03.png correctly classified in Top10 with label 1
+Image 074/01.png correctly classified in Top1 with label 1
+Image 074/01.png correctly classified in Top5 with label 1
+Image 074/01.png correctly classified in Top10 with label 1
+Image 074/02.png correctly classified in Top1 with label 1
+Image 074/02.png correctly classified in Top5 with label 1
+Image 074/02.png correctly classified in Top10 with label 1
+Image 075/02.png correctly classified in Top1 with label 1
+Image 075/02.png correctly classified in Top5 with label 1
+Image 075/02.png correctly classified in Top10 with label 1
+Image 075/03.png correctly classified in Top1 with label 1
+Image 075/03.png correctly classified in Top5 with label 1
+Image 075/03.png correctly classified in Top10 with label 1
+Image 075/04.png correctly classified in Top1 with label 1
+Image 075/04.png correctly classified in Top5 with label 1
+Image 075/04.png correctly classified in Top10 with label 1
+Image 076/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 076/06.png correctly classified in Top5 with label 1
+Image 076/06.png correctly classified in Top10 with label 1
+Image 076/07.png incorrectly classified in Top1 with label 1 correct is 2
+Image 076/07.png correctly classified in Top5 with label 1
+Image 076/07.png correctly classified in Top10 with label 1
+Image 076/08.png incorrectly classified in Top1 with label 1 correct is 2
+Image 076/08.png correctly classified in Top5 with label 1
+Image 076/08.png correctly classified in Top10 with label 1
+Image 077/07.png correctly classified in Top1 with label 1
+Image 077/07.png correctly classified in Top5 with label 1
+Image 077/07.png correctly classified in Top10 with label 1
+Image 077/08.png correctly classified in Top1 with label 1
+Image 077/08.png correctly classified in Top5 with label 1
+Image 077/08.png correctly classified in Top10 with label 1
+Image 077/09.png correctly classified in Top1 with label 1
+Image 077/09.png correctly classified in Top5 with label 1
+Image 077/09.png correctly classified in Top10 with label 1
+Image 078/05.png correctly classified in Top1 with label 1
+Image 078/05.png correctly classified in Top5 with label 1
+Image 078/05.png correctly classified in Top10 with label 1
+Image 078/01.png correctly classified in Top1 with label 1
+Image 078/01.png correctly classified in Top5 with label 1
+Image 078/01.png correctly classified in Top10 with label 1
+Image 078/02.png correctly classified in Top1 with label 1
+Image 078/02.png correctly classified in Top5 with label 1
+Image 078/02.png correctly classified in Top10 with label 1
+Image 079/10.png correctly classified in Top1 with label 1
+Image 079/10.png correctly classified in Top5 with label 1
+Image 079/10.png correctly classified in Top10 with label 1
+Image 080/01.png correctly classified in Top1 with label 1
+Image 080/01.png correctly classified in Top5 with label 1
+Image 080/01.png correctly classified in Top10 with label 1
+Image 080/02.png correctly classified in Top1 with label 1
+Image 080/02.png correctly classified in Top5 with label 1
+Image 080/02.png correctly classified in Top10 with label 1
+Image 081/05.png correctly classified in Top1 with label 1
+Image 081/05.png correctly classified in Top5 with label 1
+Image 081/05.png correctly classified in Top10 with label 1
+Image 081/06.png correctly classified in Top1 with label 1
+Image 081/06.png correctly classified in Top5 with label 1
+Image 081/06.png correctly classified in Top10 with label 1
+Image 081/02.png correctly classified in Top1 with label 1
+Image 081/02.png correctly classified in Top5 with label 1
+Image 081/02.png correctly classified in Top10 with label 1
+Image 082/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 082/06.png correctly classified in Top5 with label 1
+Image 082/06.png correctly classified in Top10 with label 1
+Image 082/01.png incorrectly classified in Top1 with label 1 correct is 2
+Image 082/01.png correctly classified in Top5 with label 1
+Image 082/01.png correctly classified in Top10 with label 1
+Image 082/02.png incorrectly classified in Top1 with label 1 correct is 2
+Image 082/02.png correctly classified in Top5 with label 1
+Image 082/02.png correctly classified in Top10 with label 1
+Image 083/02.png correctly classified in Top1 with label 1
+Image 083/02.png correctly classified in Top5 with label 1
+Image 083/02.png correctly classified in Top10 with label 1
+Image 083/08.png correctly classified in Top1 with label 1
+Image 083/08.png correctly classified in Top5 with label 1
+Image 083/08.png correctly classified in Top10 with label 1
+Image 083/09.png correctly classified in Top1 with label 1
+Image 083/09.png correctly classified in Top5 with label 1
+Image 083/09.png correctly classified in Top10 with label 1
+Image 009/04.png correctly classified in Top1 with label 1
+Image 009/04.png correctly classified in Top5 with label 1
+Image 009/04.png correctly classified in Top10 with label 1
+Image 084/10.png correctly classified in Top1 with label 1
+Image 084/10.png correctly classified in Top5 with label 1
+Image 084/10.png correctly classified in Top10 with label 1
+Image 084/02.png correctly classified in Top1 with label 1
+Image 084/02.png correctly classified in Top5 with label 1
+Image 084/02.png correctly classified in Top10 with label 1
+Image 009/01.png correctly classified in Top1 with label 1
+Image 009/01.png correctly classified in Top5 with label 1
+Image 009/01.png correctly classified in Top10 with label 1
+Image 084/03.png correctly classified in Top1 with label 1
+Image 084/03.png correctly classified in Top5 with label 1
+Image 084/03.png correctly classified in Top10 with label 1
+Image 009/05.png correctly classified in Top1 with label 1
+Image 009/05.png correctly classified in Top5 with label 1
+Image 009/05.png correctly classified in Top10 with label 1
+Image 085/02.png incorrectly classified in Top1 with label 1 correct is 3
+Image 085/02.png correctly classified in Top5 with label 1
+Image 085/02.png correctly classified in Top10 with label 1
+Image 086/01.png correctly classified in Top1 with label 1
+Image 086/01.png correctly classified in Top5 with label 1
+Image 086/01.png correctly classified in Top10 with label 1
+Image 086/06.png correctly classified in Top1 with label 1
+Image 086/06.png correctly classified in Top5 with label 1
+Image 086/06.png correctly classified in Top10 with label 1
+Image 087/04.png incorrectly classified in Top1 with label 1 correct is 4
+Image 087/04.png correctly classified in Top5 with label 1
+Image 087/04.png correctly classified in Top10 with label 1
+Image 087/05.png incorrectly classified in Top1 with label 1 correct is 4
+Image 087/05.png correctly classified in Top5 with label 1
+Image 087/05.png correctly classified in Top10 with label 1
+Image 087/06.png incorrectly classified in Top1 with label 1 correct is 4
+Image 087/06.png correctly classified in Top5 with label 1
+Image 087/06.png correctly classified in Top10 with label 1
+Image 088/08.png correctly classified in Top1 with label 1
+Image 088/08.png correctly classified in Top5 with label 1
+Image 088/08.png correctly classified in Top10 with label 1
+Image 088/09.png correctly classified in Top1 with label 1
+Image 088/09.png correctly classified in Top5 with label 1
+Image 088/09.png correctly classified in Top10 with label 1
+Image 088/10.png correctly classified in Top1 with label 1
+Image 088/10.png correctly classified in Top5 with label 1
+Image 088/10.png correctly classified in Top10 with label 1
+Image 089/07.png correctly classified in Top1 with label 1
+Image 089/07.png correctly classified in Top5 with label 1
+Image 089/07.png correctly classified in Top10 with label 1
+Image 089/08.png correctly classified in Top1 with label 1
+Image 089/08.png correctly classified in Top5 with label 1
+Image 089/08.png correctly classified in Top10 with label 1
+Image 089/09.png correctly classified in Top1 with label 1
+Image 089/09.png correctly classified in Top5 with label 1
+Image 089/09.png correctly classified in Top10 with label 1
+Image 090/08.png correctly classified in Top1 with label 1
+Image 090/08.png correctly classified in Top5 with label 1
+Image 090/08.png correctly classified in Top10 with label 1
+Image 090/09.png correctly classified in Top1 with label 1
+Image 090/09.png correctly classified in Top5 with label 1
+Image 090/09.png correctly classified in Top10 with label 1
+Image 090/10.png correctly classified in Top1 with label 1
+Image 090/10.png correctly classified in Top5 with label 1
+Image 090/10.png correctly classified in Top10 with label 1
+Image 091/03.png incorrectly classified in Top1 with label 1 correct is 2
+Image 091/03.png correctly classified in Top5 with label 1
+Image 091/03.png correctly classified in Top10 with label 1
+Image 092/01.png correctly classified in Top1 with label 1
+Image 092/01.png correctly classified in Top5 with label 1
+Image 092/01.png correctly classified in Top10 with label 1
+Image 092/03.png correctly classified in Top1 with label 1
+Image 092/03.png correctly classified in Top5 with label 1
+Image 092/03.png correctly classified in Top10 with label 1
+Image 093/02.png correctly classified in Top1 with label 1
+Image 093/02.png correctly classified in Top5 with label 1
+Image 093/02.png correctly classified in Top10 with label 1
+Image 093/05.png correctly classified in Top1 with label 1
+Image 093/05.png correctly classified in Top5 with label 1
+Image 093/05.png correctly classified in Top10 with label 1
+Image 093/03.png correctly classified in Top1 with label 1
+Image 093/03.png correctly classified in Top5 with label 1
+Image 093/03.png correctly classified in Top10 with label 1
+Image 094/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 094/04.png correctly classified in Top5 with label 1
+Image 094/04.png correctly classified in Top10 with label 1
+Image 094/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 094/05.png correctly classified in Top5 with label 1
+Image 094/05.png correctly classified in Top10 with label 1
+Image 094/06.png incorrectly classified in Top1 with label 1 correct is 2
+Image 094/06.png correctly classified in Top5 with label 1
+Image 094/06.png correctly classified in Top10 with label 1
+Image 095/07.png incorrectly classified in Top1 with label 1 correct is 8
+Image 095/07.png incorrectly classified not in Top5 with label 1 correct is 8
+Image 095/07.png correctly classified in Top10 with label 1
+Image 095/08.png incorrectly classified in Top1 with label 1 correct is 8
+Image 095/08.png incorrectly classified not in Top5 with label 1 correct is 8
+Image 095/08.png correctly classified in Top10 with label 1
+Image 095/09.png incorrectly classified in Top1 with label 1 correct is 8
+Image 095/09.png incorrectly classified not in Top5 with label 1 correct is 8
+Image 095/09.png correctly classified in Top10 with label 1
+Image 010/07.png correctly classified in Top1 with label 1
+Image 010/07.png correctly classified in Top5 with label 1
+Image 010/07.png correctly classified in Top10 with label 1
+Image 096/02.png correctly classified in Top1 with label 1
+Image 096/02.png correctly classified in Top5 with label 1
+Image 096/02.png correctly classified in Top10 with label 1
+Image 096/03.png correctly classified in Top1 with label 1
+Image 096/03.png correctly classified in Top5 with label 1
+Image 096/03.png correctly classified in Top10 with label 1
+Image 010/08.png correctly classified in Top1 with label 1
+Image 010/08.png correctly classified in Top5 with label 1
+Image 010/08.png correctly classified in Top10 with label 1
+Image 096/04.png correctly classified in Top1 with label 1
+Image 096/04.png correctly classified in Top5 with label 1
+Image 096/04.png correctly classified in Top10 with label 1
+Image 010/02.png correctly classified in Top1 with label 1
+Image 010/02.png correctly classified in Top5 with label 1
+Image 010/02.png correctly classified in Top10 with label 1
+Image 097/02.png correctly classified in Top1 with label 1
+Image 097/02.png correctly classified in Top5 with label 1
+Image 097/02.png correctly classified in Top10 with label 1
+Image 098/01.png correctly classified in Top1 with label 1
+Image 098/01.png correctly classified in Top5 with label 1
+Image 098/01.png correctly classified in Top10 with label 1
+Image 098/03.png correctly classified in Top1 with label 1
+Image 098/03.png correctly classified in Top5 with label 1
+Image 098/03.png correctly classified in Top10 with label 1
+Image 099/04.png incorrectly classified in Top1 with label 1 correct is 2
+Image 099/04.png correctly classified in Top5 with label 1
+Image 099/04.png correctly classified in Top10 with label 1
+Image 099/01.png incorrectly classified in Top1 with label 1 correct is 2
+Image 099/01.png correctly classified in Top5 with label 1
+Image 099/01.png correctly classified in Top10 with label 1
+Image 099/05.png incorrectly classified in Top1 with label 1 correct is 2
+Image 099/05.png correctly classified in Top5 with label 1
+Image 099/05.png correctly classified in Top10 with label 1
+Image 100/04.png correctly classified in Top1 with label 1
+Image 100/04.png correctly classified in Top5 with label 1
+Image 100/04.png correctly classified in Top10 with label 1
+Image 100/05.png correctly classified in Top1 with label 1
+Image 100/05.png correctly classified in Top5 with label 1
+Image 100/05.png correctly classified in Top10 with label 1
+Image 100/06.png correctly classified in Top1 with label 1
+Image 100/06.png correctly classified in Top5 with label 1
+Image 100/06.png correctly classified in Top10 with label 1
+Image 093/08.png correctly classified in Top1 with label 1
+Image 093/08.png correctly classified in Top5 with label 1
+Image 093/08.png correctly classified in Top10 with label 1
+Image 096/10.png correctly classified in Top1 with label 1
+Image 096/10.png correctly classified in Top5 with label 1
+Image 096/10.png correctly classified in Top10 with label 1

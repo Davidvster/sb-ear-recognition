@@ -1,0 +1,6 @@
+Epochs 130 
+Batch_size 32 
+Validation_split 0.0 
+Learning_rate 0.01 
+Steps_per_epoch None 
+Validation_steps None

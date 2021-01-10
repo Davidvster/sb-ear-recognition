@@ -1,0 +1,3 @@
+Rank 1 - best epoch: 30 with top1_correct: 159 top5_correct: 239 top10_correct: 250
+Rank 5 - best epoch: 26 with top1_correct: 154 top5_correct: 242 top10_correct: 250
+Rank 10 - best epoch: 1 with top1_correct: 153 top5_correct: 239 top10_correct: 250
