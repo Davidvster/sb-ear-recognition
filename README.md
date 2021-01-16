@@ -6,6 +6,7 @@ The notebook was built and ran on [Google Colab online tool](https://colab.resea
 The rest of the files and models can be found on [Google Drive](https://drive.google.com/drive/folders/1q4VBjxXgQDa3HEOxLNRgyZcfuk-spJN_?usp=sharing) (Note: A Univeristy of Ljubljana Google Account is required to view the content of this Google Drive folder).
 
 Best performing models:
+
 Identity:
 - VGG full [epoch 87](https://drive.google.com/file/d/14ttfjIDfHEdqgIgGN3zm7AAFGqD7CZPa/view?usp=sharing)
 - VGG 0.7 [epoch 55](https://drive.google.com/file/d/1AmqcdcY1UQagjg5xBsbg0wJlbpgtTUD3/view?usp=sharing)
